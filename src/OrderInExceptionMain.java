@@ -9,8 +9,8 @@ public class OrderInExceptionMain {
 			}
 		}catch (Exception e1){
 			System.out.print("E1");
-		}catch (ArithmeticException e1){
+		}/*catch (ArithmeticException e1){
 			System.out.print("E1");
-		}
+		}*/
 	}
 }
